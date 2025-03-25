@@ -1,0 +1,5 @@
+name,lat,lon,sales_car,sales_bus,sales_bike
+Showroom A,19.0760,72.8777,300,100,100
+Showroom B,19.0660,72.8677,200,50,50
+Showroom C,19.0800,72.8800,150,20,30
+Showroom D,19.2000,72.9500,100,10,10
